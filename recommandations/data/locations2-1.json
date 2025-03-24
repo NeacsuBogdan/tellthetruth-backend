@@ -1,0 +1,204 @@
+[
+    {
+        "Id": 1,
+        "Categorie": "Spitale",
+        "Produse/Servicii": "Internare, Chirurgie, Terapie intensivă, Urgențe, Maternitate",
+        "Recenzii": [
+            {
+                "idU": 14,
+                "scor": 5,
+                "data": "2023-06-09"
+            },
+            {
+                "idU": 1,
+                "scor": 2,
+                "data": "2023-07-14"
+            },
+            {
+                "idU": 12,
+                "scor": 2,
+                "data": "2023-07-03"
+            },
+            {
+                "idU": 20,
+                "scor": 3,
+                "data": "2023-12-09"
+            },
+            {
+                "idU": 6,
+                "scor": 4,
+                "data": "2023-12-07"
+            },
+            {
+                "idU": 6,
+                "scor": 3,
+                "data": "2024-05-08"
+            },
+            {
+                "idU": 20,
+                "scor": 4,
+                "data": "2024-05-18"
+            },
+            {
+                "idU": 10,
+                "scor": 1,
+                "data": "2023-06-16"
+            },
+            {
+                "idU": 9,
+                "scor": 5,
+                "data": "2023-11-12"
+            },
+            {
+                "idU": 6,
+                "scor": 3,
+                "data": "2024-04-21"
+            }
+        ],
+        "Reviews utilizator": [],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 2,
+        "Categorie": "Școli",
+        "Produse/Servicii": "Programe de voluntariat, Sport, Educație, Muzică, Bibliotecă",
+        "Recenzii": [
+            {
+                "idU": 10,
+                "scor": 1,
+                "data": "2024-03-21"
+            },
+            {
+                "idU": 8,
+                "scor": 4,
+                "data": "2024-03-14"
+            },
+            {
+                "idU": 18,
+                "scor": 4,
+                "data": "2023-06-24"
+            },
+            {
+                "idU": 3,
+                "scor": 2,
+                "data": "2023-12-30"
+            },
+            {
+                "idU": 20,
+                "scor": 4,
+                "data": "2023-08-08"
+            },
+            {
+                "idU": 11,
+                "scor": 2,
+                "data": "2024-04-09"
+            },
+            {
+                "idU": 14,
+                "scor": 1,
+                "data": "2023-07-31"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 1,
+                "data": "2024-01-23"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 3,
+        "Categorie": "Clinici",
+        "Produse/Servicii": "Fizioterapie, Laborator, Reabilitare, Telemedicină",
+        "Recenzii": [
+            {
+                "idU": 8,
+                "scor": 5,
+                "data": "2023-07-09"
+            },
+            {
+                "idU": 17,
+                "scor": 5,
+                "data": "2023-09-03"
+            },
+            {
+                "idU": 17,
+                "scor": 3,
+                "data": "2023-06-01"
+            },
+            {
+                "idU": 5,
+                "scor": 4,
+                "data": "2023-12-07"
+            },
+            {
+                "idU": 4,
+                "scor": 2,
+                "data": "2023-09-23"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 2,
+                "data": "2024-02-13"
+            },
+            {
+                "scor": 1,
+                "data": "2023-11-09"
+            },
+            {
+                "scor": 1,
+                "data": "2024-02-14"
+            },
+            {
+                "scor": 1,
+                "data": "2023-05-27"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 4,
+        "Categorie": "Hoteluri",
+        "Produse/Servicii": "Room service, Servicii de concierge, Conferinte, Spa, Transfer aeroport",
+        "Recenzii": [
+            {
+                "idU": 2,
+                "scor": 4,
+                "data": "2023-11-21"
+            },
+            {
+                "idU": 6,
+                "scor": 1,
+                "data": "2023-09-17"
+            },
+            {
+                "idU": 4,
+                "scor": 3,
+                "data": "2023-12-16"
+            },
+            {
+                "idU": 18,
+                "scor": 2,
+                "data": "2023-07-26"
+            },
+            {
+                "idU": 9,
+                "scor": 1,
+                "data": "2023-06-18"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 1,
+                "data": "2023-08-21"
+            },
+            {
+                "scor": 1,
+                "data": "2024-03-08"
+            }
+        ],
+        "Favorite": "nu"
+    }
+]

@@ -1,0 +1,380 @@
+[
+    {
+        "Id": 1,
+        "Categorie": "Parcuri de distracții",
+        "Produse/Servicii": "Carusel, Zona de jocuri, Aqua park, Spectacole live, Roller coaster",
+        "Recenzii": [
+            {
+                "idU": 2,
+                "scor": 2,
+                "data": "2023-06-30"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 4,
+                "data": "2023-11-14"
+            }
+        ],
+        "Favorite": "da"
+    },
+    {
+        "Id": 2,
+        "Categorie": "Cafenele",
+        "Produse/Servicii": "Croissante",
+        "Recenzii": [
+            {
+                "idU": 12,
+                "scor": 4,
+                "data": "2023-06-26"
+            },
+            {
+                "idU": 15,
+                "scor": 1,
+                "data": "2024-01-08"
+            },
+            {
+                "idU": 7,
+                "scor": 5,
+                "data": "2024-05-16"
+            },
+            {
+                "idU": 16,
+                "scor": 3,
+                "data": "2024-04-23"
+            },
+            {
+                "idU": 5,
+                "scor": 3,
+                "data": "2023-08-04"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 4,
+                "data": "2023-11-09"
+            },
+            {
+                "scor": 3,
+                "data": "2023-08-21"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 3,
+        "Categorie": "Cafenele",
+        "Produse/Servicii": "Croissante, Smoothies, Patiserie",
+        "Recenzii": [],
+        "Reviews utilizator": [],
+        "Favorite": "da"
+    },
+    {
+        "Id": 4,
+        "Categorie": "Grădini zoologice",
+        "Produse/Servicii": "Expozitii interactive, Zona de picnic, Cafenea",
+        "Recenzii": [
+            {
+                "idU": 18,
+                "scor": 5,
+                "data": "2024-02-11"
+            },
+            {
+                "idU": 12,
+                "scor": 3,
+                "data": "2024-04-28"
+            },
+            {
+                "idU": 10,
+                "scor": 3,
+                "data": "2023-08-21"
+            },
+            {
+                "idU": 18,
+                "scor": 2,
+                "data": "2024-03-06"
+            },
+            {
+                "idU": 7,
+                "scor": 2,
+                "data": "2023-11-28"
+            },
+            {
+                "idU": 20,
+                "scor": 2,
+                "data": "2024-01-15"
+            },
+            {
+                "idU": 4,
+                "scor": 4,
+                "data": "2024-03-09"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 1,
+                "data": "2024-05-15"
+            },
+            {
+                "scor": 3,
+                "data": "2023-10-19"
+            },
+            {
+                "scor": 3,
+                "data": "2023-07-27"
+            },
+            {
+                "scor": 2,
+                "data": "2023-11-21"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 5,
+        "Categorie": "Grădini zoologice",
+        "Produse/Servicii": "Tururi nocturne, Zonă de joacă, Cafenea",
+        "Recenzii": [
+            {
+                "idU": 5,
+                "scor": 2,
+                "data": "2023-11-16"
+            },
+            {
+                "idU": 14,
+                "scor": 5,
+                "data": "2023-12-25"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 3,
+                "data": "2024-02-11"
+            },
+            {
+                "scor": 5,
+                "data": "2024-03-05"
+            },
+            {
+                "scor": 2,
+                "data": "2023-09-25"
+            },
+            {
+                "scor": 2,
+                "data": "2024-05-15"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 6,
+        "Categorie": "Parcuri de distracții",
+        "Produse/Servicii": "Casa groazei, Zona de jocuri",
+        "Recenzii": [],
+        "Reviews utilizator": [
+            {
+                "scor": 5,
+                "data": "2023-12-04"
+            },
+            {
+                "scor": 2,
+                "data": "2023-10-08"
+            },
+            {
+                "scor": 3,
+                "data": "2023-07-17"
+            },
+            {
+                "scor": 2,
+                "data": "2023-08-31"
+            },
+            {
+                "scor": 2,
+                "data": "2024-03-18"
+            }
+        ],
+        "Favorite": "da"
+    },
+    {
+        "Id": 7,
+        "Categorie": "Companii feroviare",
+        "Produse/Servicii": "Wi-Fi, Tururi ghidate",
+        "Recenzii": [
+            {
+                "idU": 19,
+                "scor": 2,
+                "data": "2024-02-21"
+            },
+            {
+                "idU": 7,
+                "scor": 2,
+                "data": "2023-05-30"
+            },
+            {
+                "idU": 10,
+                "scor": 1,
+                "data": "2024-02-02"
+            },
+            {
+                "idU": 18,
+                "scor": 5,
+                "data": "2023-05-30"
+            },
+            {
+                "idU": 5,
+                "scor": 5,
+                "data": "2023-07-13"
+            },
+            {
+                "idU": 8,
+                "scor": 1,
+                "data": "2023-11-16"
+            },
+            {
+                "idU": 6,
+                "scor": 4,
+                "data": "2023-12-01"
+            },
+            {
+                "idU": 20,
+                "scor": 5,
+                "data": "2024-05-17"
+            },
+            {
+                "idU": 4,
+                "scor": 2,
+                "data": "2024-01-16"
+            },
+            {
+                "idU": 6,
+                "scor": 5,
+                "data": "2024-03-18"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 4,
+                "data": "2023-12-14"
+            },
+            {
+                "scor": 4,
+                "data": "2023-08-20"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 8,
+        "Categorie": "Companii aeriene",
+        "Produse/Servicii": "Check-in online, Divertisment în zbor, Lounge, Bagaj de cală gratuit, Zboruri internationale",
+        "Recenzii": [
+            {
+                "idU": 1,
+                "scor": 3,
+                "data": "2023-08-28"
+            },
+            {
+                "idU": 17,
+                "scor": 4,
+                "data": "2024-03-18"
+            }
+        ],
+        "Reviews utilizator": [],
+        "Favorite": "da"
+    },
+    {
+        "Id": 9,
+        "Categorie": "Piețe",
+        "Produse/Servicii": "Produse apicole, Flori",
+        "Recenzii": [
+            {
+                "idU": 1,
+                "scor": 3,
+                "data": "2023-08-10"
+            },
+            {
+                "idU": 10,
+                "scor": 2,
+                "data": "2024-02-21"
+            },
+            {
+                "idU": 8,
+                "scor": 2,
+                "data": "2024-03-14"
+            },
+            {
+                "idU": 7,
+                "scor": 5,
+                "data": "2023-07-13"
+            },
+            {
+                "idU": 6,
+                "scor": 3,
+                "data": "2023-12-14"
+            },
+            {
+                "idU": 5,
+                "scor": 1,
+                "data": "2024-01-23"
+            }
+        ],
+        "Reviews utilizator": [],
+        "Favorite": "da"
+    },
+    {
+        "Id": 10,
+        "Categorie": "Spa, Sala de sport",
+        "Produse/Servicii": "Masaj, Pilates",
+        "Recenzii": [
+            {
+                "idU": 6,
+                "scor": 4,
+                "data": "2023-05-26"
+            },
+            {
+                "idU": 13,
+                "scor": 3,
+                "data": "2024-05-18"
+            },
+            {
+                "idU": 9,
+                "scor": 5,
+                "data": "2024-03-13"
+            },
+            {
+                "idU": 20,
+                "scor": 3,
+                "data": "2023-12-04"
+            },
+            {
+                "idU": 16,
+                "scor": 4,
+                "data": "2024-05-23"
+            },
+            {
+                "idU": 18,
+                "scor": 5,
+                "data": "2023-08-27"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 5,
+                "data": "2023-08-06"
+            },
+            {
+                "scor": 5,
+                "data": "2024-04-02"
+            },
+            {
+                "scor": 1,
+                "data": "2023-06-10"
+            },
+            {
+                "scor": 1,
+                "data": "2024-02-18"
+            }
+        ],
+        "Favorite": "nu"
+    }
+]

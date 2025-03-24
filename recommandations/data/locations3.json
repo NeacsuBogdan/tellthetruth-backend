@@ -1,0 +1,910 @@
+[
+    {
+        "Id": 1,
+        "Categorie": "Piețe",
+        "Produse/Servicii": "Alimente organice",
+        "Recenzii": [
+            {
+                "idU": 5,
+                "scor": 1,
+                "data": "2024-04-05"
+            },
+            {
+                "idU": 8,
+                "scor": 1,
+                "data": "2023-11-06"
+            },
+            {
+                "idU": 17,
+                "scor": 3,
+                "data": "2023-06-19"
+            },
+            {
+                "idU": 15,
+                "scor": 2,
+                "data": "2023-09-26"
+            },
+            {
+                "idU": 3,
+                "scor": 3,
+                "data": "2023-11-19"
+            },
+            {
+                "idU": 6,
+                "scor": 5,
+                "data": "2023-06-22"
+            },
+            {
+                "idU": 11,
+                "scor": 4,
+                "data": "2023-09-24"
+            },
+            {
+                "idU": 14,
+                "scor": 3,
+                "data": "2023-09-01"
+            },
+            {
+                "idU": 7,
+                "scor": 2,
+                "data": "2023-06-03"
+            },
+            {
+                "idU": 1,
+                "scor": 5,
+                "data": "2023-12-30"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 4,
+                "data": "2023-10-11"
+            },
+            {
+                "scor": 2,
+                "data": "2023-05-26"
+            },
+            {
+                "scor": 4,
+                "data": "2024-05-03"
+            },
+            {
+                "scor": 5,
+                "data": "2024-02-05"
+            },
+            {
+                "scor": 5,
+                "data": "2023-11-21"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 2,
+        "Categorie": "Companii feroviare",
+        "Produse/Servicii": "Wi-Fi, Bagaj gratuit",
+        "Recenzii": [
+            {
+                "idU": 4,
+                "scor": 5,
+                "data": "2024-01-17"
+            },
+            {
+                "idU": 4,
+                "scor": 2,
+                "data": "2023-10-20"
+            },
+            {
+                "idU": 4,
+                "scor": 5,
+                "data": "2024-03-22"
+            },
+            {
+                "idU": 16,
+                "scor": 4,
+                "data": "2023-07-28"
+            },
+            {
+                "idU": 5,
+                "scor": 4,
+                "data": "2023-06-27"
+            },
+            {
+                "idU": 19,
+                "scor": 3,
+                "data": "2024-02-21"
+            },
+            {
+                "idU": 14,
+                "scor": 1,
+                "data": "2024-01-24"
+            },
+            {
+                "idU": 3,
+                "scor": 3,
+                "data": "2024-01-06"
+            },
+            {
+                "idU": 4,
+                "scor": 1,
+                "data": "2024-02-24"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 3,
+                "data": "2024-02-07"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 3,
+        "Categorie": "Cafenele",
+        "Produse/Servicii": "Ceai, Bagels, Patiserie",
+        "Recenzii": [
+            {
+                "idU": 14,
+                "scor": 4,
+                "data": "2024-05-08"
+            },
+            {
+                "idU": 18,
+                "scor": 1,
+                "data": "2023-10-04"
+            },
+            {
+                "idU": 14,
+                "scor": 5,
+                "data": "2023-10-11"
+            },
+            {
+                "idU": 16,
+                "scor": 1,
+                "data": "2023-06-03"
+            },
+            {
+                "idU": 1,
+                "scor": 4,
+                "data": "2023-07-04"
+            },
+            {
+                "idU": 18,
+                "scor": 4,
+                "data": "2024-02-09"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 3,
+                "data": "2024-04-03"
+            },
+            {
+                "scor": 1,
+                "data": "2024-03-05"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 4,
+        "Categorie": "Restaurant",
+        "Produse/Servicii": "Pizza, Supe, Crispy",
+        "Recenzii": [
+            {
+                "idU": 19,
+                "scor": 2,
+                "data": "2024-04-01"
+            },
+            {
+                "idU": 9,
+                "scor": 2,
+                "data": "2023-06-18"
+            },
+            {
+                "idU": 5,
+                "scor": 5,
+                "data": "2024-05-13"
+            }
+        ],
+        "Reviews utilizator": [],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 5,
+        "Categorie": "Spa, Sala de sport",
+        "Produse/Servicii": "Clase de fitness, Sauna, Spa, Masaj, Pilates",
+        "Recenzii": [],
+        "Reviews utilizator": [
+            {
+                "scor": 5,
+                "data": "2024-05-19"
+            },
+            {
+                "scor": 4,
+                "data": "2023-05-28"
+            },
+            {
+                "scor": 2,
+                "data": "2023-05-30"
+            },
+            {
+                "scor": 1,
+                "data": "2023-07-17"
+            },
+            {
+                "scor": 5,
+                "data": "2024-05-01"
+            }
+        ],
+        "Favorite": "da"
+    },
+    {
+        "Id": 6,
+        "Categorie": "Parcuri de distracții",
+        "Produse/Servicii": "Zona pentru copii",
+        "Recenzii": [
+            {
+                "idU": 7,
+                "scor": 1,
+                "data": "2023-09-28"
+            },
+            {
+                "idU": 10,
+                "scor": 2,
+                "data": "2023-12-21"
+            },
+            {
+                "idU": 9,
+                "scor": 4,
+                "data": "2023-06-15"
+            },
+            {
+                "idU": 11,
+                "scor": 2,
+                "data": "2023-07-08"
+            },
+            {
+                "idU": 3,
+                "scor": 3,
+                "data": "2024-04-08"
+            },
+            {
+                "idU": 16,
+                "scor": 2,
+                "data": "2023-11-23"
+            },
+            {
+                "idU": 1,
+                "scor": 1,
+                "data": "2024-05-17"
+            },
+            {
+                "idU": 20,
+                "scor": 5,
+                "data": "2024-04-28"
+            },
+            {
+                "idU": 11,
+                "scor": 3,
+                "data": "2023-11-28"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 1,
+                "data": "2023-09-02"
+            },
+            {
+                "scor": 1,
+                "data": "2024-04-05"
+            },
+            {
+                "scor": 1,
+                "data": "2023-10-27"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 7,
+        "Categorie": "Școli",
+        "Produse/Servicii": "Bibliotecă, Sport, Educație, Arte, Programe de voluntariat",
+        "Recenzii": [
+            {
+                "idU": 15,
+                "scor": 3,
+                "data": "2024-04-20"
+            },
+            {
+                "idU": 4,
+                "scor": 2,
+                "data": "2023-11-15"
+            },
+            {
+                "idU": 14,
+                "scor": 5,
+                "data": "2023-09-22"
+            },
+            {
+                "idU": 17,
+                "scor": 1,
+                "data": "2023-07-15"
+            },
+            {
+                "idU": 5,
+                "scor": 5,
+                "data": "2023-12-21"
+            },
+            {
+                "idU": 15,
+                "scor": 1,
+                "data": "2023-09-04"
+            },
+            {
+                "idU": 18,
+                "scor": 3,
+                "data": "2024-04-13"
+            },
+            {
+                "idU": 6,
+                "scor": 4,
+                "data": "2023-08-26"
+            },
+            {
+                "idU": 10,
+                "scor": 5,
+                "data": "2024-05-23"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 4,
+                "data": "2024-01-28"
+            },
+            {
+                "scor": 4,
+                "data": "2023-08-02"
+            },
+            {
+                "scor": 1,
+                "data": "2024-05-16"
+            },
+            {
+                "scor": 1,
+                "data": "2023-07-24"
+            },
+            {
+                "scor": 4,
+                "data": "2024-01-02"
+            }
+        ],
+        "Favorite": "da"
+    },
+    {
+        "Id": 8,
+        "Categorie": "Companii feroviare",
+        "Produse/Servicii": "Vagon restaurant, Divertisment, Trenuri regionale, Reclining seats",
+        "Recenzii": [
+            {
+                "idU": 3,
+                "scor": 2,
+                "data": "2024-05-18"
+            },
+            {
+                "idU": 7,
+                "scor": 5,
+                "data": "2023-07-13"
+            },
+            {
+                "idU": 9,
+                "scor": 2,
+                "data": "2024-02-22"
+            },
+            {
+                "idU": 16,
+                "scor": 5,
+                "data": "2023-10-28"
+            },
+            {
+                "idU": 6,
+                "scor": 4,
+                "data": "2024-04-24"
+            },
+            {
+                "idU": 20,
+                "scor": 4,
+                "data": "2023-07-16"
+            },
+            {
+                "idU": 2,
+                "scor": 4,
+                "data": "2023-09-28"
+            },
+            {
+                "idU": 9,
+                "scor": 1,
+                "data": "2024-03-20"
+            },
+            {
+                "idU": 5,
+                "scor": 1,
+                "data": "2023-09-12"
+            },
+            {
+                "idU": 16,
+                "scor": 5,
+                "data": "2023-06-09"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 4,
+                "data": "2024-03-23"
+            },
+            {
+                "scor": 5,
+                "data": "2023-07-21"
+            }
+        ],
+        "Favorite": "da"
+    },
+    {
+        "Id": 9,
+        "Categorie": "Școli",
+        "Produse/Servicii": "Arte, Programe de voluntariat, Excursii educative, Bibliotecă, Concursuri școlare",
+        "Recenzii": [
+            {
+                "idU": 18,
+                "scor": 3,
+                "data": "2024-04-22"
+            },
+            {
+                "idU": 15,
+                "scor": 3,
+                "data": "2024-01-30"
+            },
+            {
+                "idU": 2,
+                "scor": 1,
+                "data": "2023-07-15"
+            },
+            {
+                "idU": 17,
+                "scor": 1,
+                "data": "2024-02-12"
+            },
+            {
+                "idU": 5,
+                "scor": 5,
+                "data": "2024-03-06"
+            },
+            {
+                "idU": 20,
+                "scor": 1,
+                "data": "2023-07-28"
+            },
+            {
+                "idU": 16,
+                "scor": 1,
+                "data": "2023-11-08"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 4,
+                "data": "2024-03-08"
+            },
+            {
+                "scor": 3,
+                "data": "2024-04-15"
+            },
+            {
+                "scor": 2,
+                "data": "2024-01-21"
+            },
+            {
+                "scor": 5,
+                "data": "2024-02-16"
+            }
+        ],
+        "Favorite": "da"
+    },
+    {
+        "Id": 10,
+        "Categorie": "Grădini zoologice",
+        "Produse/Servicii": "Expozitii interactive",
+        "Recenzii": [
+            {
+                "idU": 12,
+                "scor": 3,
+                "data": "2023-12-09"
+            },
+            {
+                "idU": 3,
+                "scor": 2,
+                "data": "2024-05-24"
+            },
+            {
+                "idU": 1,
+                "scor": 2,
+                "data": "2023-06-13"
+            },
+            {
+                "idU": 9,
+                "scor": 5,
+                "data": "2023-07-26"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 1,
+                "data": "2024-04-15"
+            },
+            {
+                "scor": 1,
+                "data": "2023-10-22"
+            },
+            {
+                "scor": 5,
+                "data": "2023-11-25"
+            },
+            {
+                "scor": 1,
+                "data": "2024-03-20"
+            },
+            {
+                "scor": 4,
+                "data": "2024-05-23"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 11,
+        "Categorie": "Muzee",
+        "Produse/Servicii": "Audio ghiduri, Tururi ghidate",
+        "Recenzii": [
+            {
+                "idU": 20,
+                "scor": 3,
+                "data": "2024-01-27"
+            },
+            {
+                "idU": 2,
+                "scor": 5,
+                "data": "2024-05-04"
+            },
+            {
+                "idU": 7,
+                "scor": 3,
+                "data": "2023-11-02"
+            },
+            {
+                "idU": 2,
+                "scor": 5,
+                "data": "2023-10-14"
+            }
+        ],
+        "Reviews utilizator": [],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 12,
+        "Categorie": "Clinici",
+        "Produse/Servicii": "Laborator, Reabilitare, Fizioterapie",
+        "Recenzii": [
+            {
+                "idU": 16,
+                "scor": 3,
+                "data": "2023-10-26"
+            },
+            {
+                "idU": 7,
+                "scor": 1,
+                "data": "2023-10-22"
+            },
+            {
+                "idU": 12,
+                "scor": 4,
+                "data": "2023-08-24"
+            },
+            {
+                "idU": 19,
+                "scor": 2,
+                "data": "2024-01-12"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 3,
+                "data": "2023-10-15"
+            },
+            {
+                "scor": 4,
+                "data": "2024-05-06"
+            },
+            {
+                "scor": 4,
+                "data": "2023-09-15"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 13,
+        "Categorie": "Teatre",
+        "Produse/Servicii": "Reprezentatii speciale, Cafenea, Spectacole",
+        "Recenzii": [],
+        "Reviews utilizator": [
+            {
+                "scor": 1,
+                "data": "2024-02-19"
+            },
+            {
+                "scor": 3,
+                "data": "2024-03-09"
+            },
+            {
+                "scor": 3,
+                "data": "2023-07-02"
+            },
+            {
+                "scor": 3,
+                "data": "2023-12-03"
+            }
+        ],
+        "Favorite": "da"
+    },
+    {
+        "Id": 14,
+        "Categorie": "Galerii de artă",
+        "Produse/Servicii": "Vernisaje, Evenimente culturale, Ateliere de creatie",
+        "Recenzii": [
+            {
+                "idU": 6,
+                "scor": 1,
+                "data": "2024-01-17"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 4,
+                "data": "2024-05-08"
+            },
+            {
+                "scor": 3,
+                "data": "2024-02-01"
+            },
+            {
+                "scor": 4,
+                "data": "2024-04-17"
+            }
+        ],
+        "Favorite": "da"
+    },
+    {
+        "Id": 15,
+        "Categorie": "Clinici",
+        "Produse/Servicii": "Radiologie, Consultații, Tratamente, Telemedicină",
+        "Recenzii": [
+            {
+                "idU": 15,
+                "scor": 1,
+                "data": "2024-04-26"
+            },
+            {
+                "idU": 11,
+                "scor": 1,
+                "data": "2024-02-23"
+            },
+            {
+                "idU": 3,
+                "scor": 4,
+                "data": "2023-09-29"
+            },
+            {
+                "idU": 18,
+                "scor": 3,
+                "data": "2024-02-10"
+            },
+            {
+                "idU": 3,
+                "scor": 4,
+                "data": "2024-03-30"
+            },
+            {
+                "idU": 3,
+                "scor": 1,
+                "data": "2023-07-07"
+            },
+            {
+                "idU": 1,
+                "scor": 1,
+                "data": "2023-06-19"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 1,
+                "data": "2023-07-30"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 16,
+        "Categorie": "Restaurant",
+        "Produse/Servicii": "Gin, Pasta, Whiskey, Grill, Supe",
+        "Recenzii": [
+            {
+                "idU": 15,
+                "scor": 4,
+                "data": "2024-03-08"
+            },
+            {
+                "idU": 19,
+                "scor": 2,
+                "data": "2023-08-08"
+            },
+            {
+                "idU": 15,
+                "scor": 3,
+                "data": "2023-10-12"
+            },
+            {
+                "idU": 2,
+                "scor": 3,
+                "data": "2023-05-27"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 2,
+                "data": "2023-11-16"
+            },
+            {
+                "scor": 5,
+                "data": "2024-05-11"
+            },
+            {
+                "scor": 1,
+                "data": "2024-03-13"
+            }
+        ],
+        "Favorite": "da"
+    },
+    {
+        "Id": 17,
+        "Categorie": "Muzee",
+        "Produse/Servicii": "Expozitii de arta, Audio ghiduri",
+        "Recenzii": [
+            {
+                "idU": 3,
+                "scor": 5,
+                "data": "2023-12-05"
+            },
+            {
+                "idU": 10,
+                "scor": 2,
+                "data": "2023-06-07"
+            },
+            {
+                "idU": 9,
+                "scor": 3,
+                "data": "2023-11-02"
+            },
+            {
+                "idU": 8,
+                "scor": 1,
+                "data": "2023-09-24"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 3,
+                "data": "2023-07-27"
+            },
+            {
+                "scor": 5,
+                "data": "2023-08-27"
+            },
+            {
+                "scor": 5,
+                "data": "2023-06-10"
+            }
+        ],
+        "Favorite": "da"
+    },
+    {
+        "Id": 18,
+        "Categorie": "Cafenele",
+        "Produse/Servicii": "Bagels, Muzica live, Croissante, Sandwich-uri",
+        "Recenzii": [],
+        "Reviews utilizator": [
+            {
+                "scor": 3,
+                "data": "2023-11-13"
+            },
+            {
+                "scor": 5,
+                "data": "2023-10-20"
+            },
+            {
+                "scor": 1,
+                "data": "2023-08-05"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 19,
+        "Categorie": "Restaurant",
+        "Produse/Servicii": "Pizza, Supe, Whiskey, Limonada",
+        "Recenzii": [
+            {
+                "idU": 18,
+                "scor": 2,
+                "data": "2023-06-17"
+            },
+            {
+                "idU": 15,
+                "scor": 2,
+                "data": "2023-12-27"
+            },
+            {
+                "idU": 14,
+                "scor": 2,
+                "data": "2023-11-14"
+            },
+            {
+                "idU": 15,
+                "scor": 4,
+                "data": "2024-01-07"
+            },
+            {
+                "idU": 20,
+                "scor": 2,
+                "data": "2023-12-28"
+            },
+            {
+                "idU": 13,
+                "scor": 3,
+                "data": "2023-12-23"
+            },
+            {
+                "idU": 12,
+                "scor": 5,
+                "data": "2023-08-18"
+            },
+            {
+                "idU": 13,
+                "scor": 5,
+                "data": "2023-06-17"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 3,
+                "data": "2023-11-03"
+            },
+            {
+                "scor": 5,
+                "data": "2023-07-19"
+            },
+            {
+                "scor": 5,
+                "data": "2023-10-25"
+            },
+            {
+                "scor": 1,
+                "data": "2023-09-26"
+            },
+            {
+                "scor": 2,
+                "data": "2024-02-11"
+            }
+        ],
+        "Favorite": "nu"
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "Id": 1,
+        "Categorie": "Companii aeriene",
+        "Produse/Servicii": "Check-in online, Meniu de bord, Transfer la aeroport",
+        "Recenzii": [],
+        "Reviews utilizator": [
+            {
+                "scor": 2,
+                "data": "2024-01-31"
+            },
+            {
+                "scor": 1,
+                "data": "2023-10-27"
+            },
+            {
+                "scor": 2,
+                "data": "2023-07-13"
+            },
+            {
+                "scor": 2,
+                "data": "2023-12-01"
+            },
+            {
+                "scor": 5,
+                "data": "2023-12-27"
+            }
+        ],
+        "Favorite": "nu"
+    },
+    {
+        "Id": 2,
+        "Categorie": "Clinici",
+        "Produse/Servicii": "Radiologie, Laborator, Fizioterapie, Telemedicină, Tratamente",
+        "Recenzii": [
+            {
+                "idU": 14,
+                "scor": 2,
+                "data": "2024-02-08"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 3,
+                "data": "2023-06-12"
+            },
+            {
+                "scor": 3,
+                "data": "2023-06-10"
+            },
+            {
+                "scor": 1,
+                "data": "2024-01-22"
+            },
+            {
+                "scor": 2,
+                "data": "2023-12-15"
+            },
+            {
+                "scor": 1,
+                "data": "2024-05-16"
+            }
+        ],
+        "Favorite": "da"
+    },
+    {
+        "Id": 3,
+        "Categorie": "Teatre",
+        "Produse/Servicii": "Spectacole, Opera, Bilete online, Concerte",
+        "Recenzii": [
+            {
+                "idU": 4,
+                "scor": 4,
+                "data": "2023-12-29"
+            },
+            {
+                "idU": 11,
+                "scor": 3,
+                "data": "2023-11-03"
+            },
+            {
+                "idU": 17,
+                "scor": 1,
+                "data": "2024-02-20"
+            }
+        ],
+        "Reviews utilizator": [
+            {
+                "scor": 4,
+                "data": "2023-05-27"
+            },
+            {
+                "scor": 2,
+                "data": "2023-07-23"
+            },
+            {
+                "scor": 5,
+                "data": "2023-06-27"
+            },
+            {
+                "scor": 1,
+                "data": "2023-09-17"
+            },
+            {
+                "scor": 3,
+                "data": "2023-07-04"
+            }
+        ],
+        "Favorite": "da"
+    },
+    {
+        "Id": 4,
+        "Categorie": "Companii aeriene",
+        "Produse/Servicii": "Zboruri interne, Wi-Fi",
+        "Recenzii": [
+            {
+                "idU": 10,
+                "scor": 4,
+                "data": "2023-10-15"
+            },
+            {
+                "idU": 12,
+                "scor": 2,
+                "data": "2023-06-15"
+            },
+            {
+                "idU": 3,
+                "scor": 4,
+                "data": "2023-09-03"
+            },
+            {
+                "idU": 12,
+                "scor": 1,
+                "data": "2023-09-18"
+            },
+            {
+                "idU": 11,
+                "scor": 2,
+                "data": "2023-06-15"
+            },
+            {
+                "idU": 2,
+                "scor": 3,
+                "data": "2024-05-11"
+            }
+        ],
+        "Reviews utilizator": [],
+        "Favorite": "nu"
+    }
+]

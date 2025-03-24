@@ -1,0 +1,1287 @@
+{
+  "user_id": 1,
+  "threshold": 0.8,
+  "locations": [
+    {
+      "Id": 72,
+      "Categorii": [
+        "Restaurante"
+      ],
+      "ProduseServicii": [
+        "pizza",
+        "paste",
+        "livrare",
+        "catering"
+      ],
+      "Recenzii": [
+        {
+          "idU": 14,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 22,
+          "scor": 3,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 16,
+          "scor": 2,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 18,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 27,
+          "scor": 4,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 19,
+          "scor": 3,
+          "data": "2023-05-06"
+        },
+        {
+          "idU": 25,
+          "scor": 5,
+          "data": "2023-05-07"
+        },
+        {
+          "idU": 23,
+          "scor": 5,
+          "data": "2023-05-08"
+        },
+        {
+          "idU": 14,
+          "scor": 4,
+          "data": "2024-06-26"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 73,
+      "Categorii": [
+        "Cafenele"
+      ],
+      "ProduseServicii": [
+        "cafea",
+        "ceai",
+        "wifi gratuit",
+        "carti pentru citit"
+      ],
+      "Recenzii": [
+        {
+          "idU": 21,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 15,
+          "scor": 3,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 30,
+          "scor": 4,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 17,
+          "scor": 3,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 18,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 23,
+          "scor": 2,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 16,
+          "scor": 5,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 22,
+          "scor": 3,
+          "data": "2023-05-06"
+        },
+        {
+          "idU": 27,
+          "scor": 3,
+          "data": "2023-05-07"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-08"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 74,
+      "Categorii": [
+        "Pub-uri"
+      ],
+      "ProduseServicii": [
+        "bere artizanala",
+        "cocktailuri",
+        "muzica live",
+        "darts"
+      ],
+      "Recenzii": [
+        {
+          "idU": 14,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 21,
+          "scor": 3,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 16,
+          "scor": 5,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 17,
+          "scor": 2,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 18,
+          "scor": 4,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 27,
+          "scor": 4,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 22,
+          "scor": 2,
+          "data": "2023-05-06"
+        },
+        {
+          "idU": 23,
+          "scor": 5,
+          "data": "2023-05-07"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-08"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 75,
+      "Categorii": [
+        "Hoteluri",
+        "Spa-uri"
+      ],
+      "ProduseServicii": [
+        "cazare",
+        "mic dejun",
+        "spa",
+        "parcare"
+      ],
+      "Recenzii": [
+        {
+          "idU": 15,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 21,
+          "scor": 3,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 27,
+          "scor": 5,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 22,
+          "scor": 4,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 2,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 23,
+          "scor": 5,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 17,
+          "scor": 4,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 14,
+          "scor": 5,
+          "data": "2023-05-06"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-07"
+        },
+        {
+          "idU": 16,
+          "scor": 5,
+          "data": "2023-05-08"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 76,
+      "Categorii": [
+        "Cinematografe",
+        "Teatre"
+      ],
+      "ProduseServicii": [
+        "popcorn",
+        "surcuri",
+        "proiectii 3D",
+        "reduceri studenti",
+        "bilete spectacole",
+        "workshopuri"
+      ],
+      "Recenzii": [
+        {
+          "idU": 15,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 21,
+          "scor": 3,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 27,
+          "scor": 5,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 22,
+          "scor": 4,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 2,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 23,
+          "scor": 5,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 17,
+          "scor": 4,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 16,
+          "scor": 5,
+          "data": "2023-05-06"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-07"
+        },
+        {
+          "idU": 25,
+          "scor": 5,
+          "data": "2023-05-08"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 77,
+      "Categorii": [
+        "Săli de sport",
+        "Spa-uri"
+      ],
+      "ProduseServicii": [
+        "Pilates",
+        "Abonamente",
+        "Antrenor personal",
+        "Nutritionist",
+        "Suplimente"
+      ],
+      "Recenzii": [
+        {
+          "idU": 15,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 17,
+          "scor": 4,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 23,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 16,
+          "scor": 4,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 25,
+          "scor": 4,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 27,
+          "scor": 5,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 21,
+          "scor": 5,
+          "data": "2023-05-06"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 78,
+      "Categorii": [
+        "Muzee"
+      ],
+      "ProduseServicii": [
+        "ghid audio",
+        "suveniruri",
+        "expozitii temporare",
+        "ateliere artistice"
+      ],
+      "Recenzii": [
+        {
+          "idU": 14,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 21,
+          "scor": 4,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 30,
+          "scor": 3,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 23,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 27,
+          "scor": 4,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 16,
+          "scor": 5,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 25,
+          "scor": 5,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 17,
+          "scor": 5,
+          "data": "2023-05-06"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 79,
+      "Categorii": [
+        "Galerii de artă"
+      ],
+      "ProduseServicii": [
+        "tablouri",
+        "sculpturi",
+        "vernisaje",
+        "vanzari de opere"
+      ],
+      "Recenzii": [
+        {
+          "idU": 14,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 21,
+          "scor": 3,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 23,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 27,
+          "scor": 5,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 16,
+          "scor": 5,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 25,
+          "scor": 5,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 17,
+          "scor": 5,
+          "data": "2023-05-06"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 80,
+      "Categorii": [
+        "Săli de sport"
+      ],
+      "ProduseServicii": [
+        "abonamente fitness",
+        "suplimente",
+        "antrenamente personalizate",
+        "cursuri grup"
+      ],
+      "Recenzii": [
+        {
+          "idU": 14,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 23,
+          "scor": 2,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 27,
+          "scor": 4,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 21,
+          "scor": 4,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 18,
+          "scor": 5,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 25,
+          "scor": 5,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 32,
+          "scor": 4,
+          "data": "2023-05-06"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 81,
+      "Categorii": [
+        "Spa-uri"
+      ],
+      "ProduseServicii": [
+        "masaj",
+        "tratamente faciale",
+        "piscina interioara",
+        "sauna"
+      ],
+      "Recenzii": [
+        {
+          "idU": 15,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 23,
+          "scor": 3,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 27,
+          "scor": 5,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 3,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 21,
+          "scor": 5,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 14,
+          "scor": 4,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 25,
+          "scor": 5,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 32,
+          "scor": 4,
+          "data": "2023-05-06"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 82,
+      "Categorii": [
+        "Parcuri de distracții"
+      ],
+      "ProduseServicii": [
+        "bilete intrare",
+        "gustari",
+        "jocuri mecanice",
+        "spectacole"
+      ],
+      "Recenzii": [
+        {
+          "idU": 14,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 23,
+          "scor": 3,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 27,
+          "scor": 4,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 21,
+          "scor": 3,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 18,
+          "scor": 5,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 25,
+          "scor": 5,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 32,
+          "scor": 4,
+          "data": "2023-05-06"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 83,
+      "Categorii": [
+        "Grădini zoologice"
+      ],
+      "ProduseServicii": [
+        "bilete intrare",
+        "ghiduri",
+        "tururi educative",
+        "zona picnic",
+        "parcare",
+        "gustari"
+      ],
+      "Recenzii": [
+        {
+          "idU": 15,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 23,
+          "scor": 3,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 27,
+          "scor": 4,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 21,
+          "scor": 5,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 14,
+          "scor": 4,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 25,
+          "scor": 3,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 32,
+          "scor": 4,
+          "data": "2023-05-06"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 84,
+      "Categorii": [
+        "Supermarket-uri"
+      ],
+      "ProduseServicii": [
+        "produse alimentare",
+        "produse igiena",
+        "livrare la domiciliu",
+        "reduceri"
+      ],
+      "Recenzii": [
+        {
+          "idU": 15,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 23,
+          "scor": 3,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 27,
+          "scor": 4,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 21,
+          "scor": 4,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 14,
+          "scor": 5,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 25,
+          "scor": 5,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 32,
+          "scor": 3,
+          "data": "2023-05-06"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 85,
+      "Categorii": [
+        "Universități"
+      ],
+      "ProduseServicii": [
+        "cursuri",
+        "publicatii",
+        "cercetare",
+        "parteneriate"
+      ],
+      "Recenzii": [
+        {
+          "idU": 15,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 23,
+          "scor": 3,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 27,
+          "scor": 4,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 21,
+          "scor": 4,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 14,
+          "scor": 5,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 25,
+          "scor": 5,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 32,
+          "scor": 3,
+          "data": "2023-05-06"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 86,
+      "Categorii": [
+        "Clinici"
+      ],
+      "ProduseServicii": [
+        "consulatii",
+        "analize",
+        "spitalizare de zi",
+        "chirurgie"
+      ],
+      "Recenzii": [
+        {
+          "idU": 15,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 23,
+          "scor": 2,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 27,
+          "scor": 4,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 21,
+          "scor": 3,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 14,
+          "scor": 4,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 25,
+          "scor": 5,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 32,
+          "scor": 3,
+          "data": "2023-05-06"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 87,
+      "Categorii": [
+        "Restaurante"
+      ],
+      "ProduseServicii": [
+        "mancaruri gourmet",
+        "vinuri fine",
+        "degustari",
+        "evenimente private"
+      ],
+      "Recenzii": [
+        {
+          "idU": 15,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 19,
+          "scor": 4,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 23,
+          "scor": 2,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 27,
+          "scor": 3,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 14,
+          "scor": 3,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 25,
+          "scor": 5,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 32,
+          "scor": 2,
+          "data": "2023-05-06"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 88,
+      "Categorii": [
+        "Hoteluri"
+      ],
+      "ProduseServicii": [
+        "cazare",
+        "mic dejun",
+        "wifi gratuit",
+        "parcare"
+      ],
+      "Recenzii": [
+        {
+          "idU": 15,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 23,
+          "scor": 3,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 27,
+          "scor": 2,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 14,
+          "scor": 3,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 25,
+          "scor": 5,
+          "data": "2023-05-05"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 89,
+      "Categorii": [
+        "Cinematografe",
+        "Teatre"
+      ],
+      "ProduseServicii": [
+        "popcorn",
+        "nachos",
+        "proiectii 2D",
+        "proiectii 3D",
+        "proiectii 4Dx",
+        "evenimente private"
+      ],
+      "Recenzii": [
+        {
+          "idU": 15,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 23,
+          "scor": 3,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 27,
+          "scor": 2,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 21,
+          "scor": 4,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 14,
+          "scor": 3,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 25,
+          "scor": 2,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 32,
+          "scor": 5,
+          "data": "2023-05-06"
+        }
+      ],
+      "Reviews utilizator": [],
+      "Favorite": "nu",
+      "proximity": "yes"
+    },
+    {
+      "Id": 90,
+      "Categorii": [
+        "Restaurante",
+        "Cafenele",
+        "Pub-uri"
+      ],
+      "ProduseServicii": [
+        "bere",
+        "snacksuri",
+        "karaoke",
+        "vizionare meciuri"
+      ],
+      "Recenzii": [
+        {
+          "idU": 15,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 19,
+          "scor": 5,
+          "data": "2023-05-01"
+        },
+        {
+          "idU": 1,
+          "scor": 3,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 27,
+          "scor": 2,
+          "data": "2023-05-02"
+        },
+        {
+          "idU": 30,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 22,
+          "scor": 5,
+          "data": "2023-05-03"
+        },
+        {
+          "idU": 21,
+          "scor": 4,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 14,
+          "scor": 3,
+          "data": "2023-05-04"
+        },
+        {
+          "idU": 25,
+          "scor": 2,
+          "data": "2023-05-05"
+        },
+        {
+          "idU": 32,
+          "scor": 5,
+          "data": "2023-05-06"
+        }
+      ],
+      "Reviews utilizator": [
+        {
+          "scor": 3,
+          "data": "2023-05-02"
+        }
+      ],
+      "Favorite": "nu",
+      "proximity": "yes"
+    }
+  ]
+}
